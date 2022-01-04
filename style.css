@@ -4,5 +4,17 @@ h1{
 }
 
 img{
-    max-width: 20%;
+    max-width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.video{
+    text-align: center;
+}
+
+section {
+    text-align: center;
 }
